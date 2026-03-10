@@ -1,0 +1,26 @@
+# dlib shape predictor model (large binary – download separately via download_models.py)
+shape_predictor_68_face_landmarks.dat
+*.dat.bz2
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
